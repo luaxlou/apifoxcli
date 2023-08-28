@@ -28,5 +28,4 @@ func init() {
 
 	importCmd.Flags().StringP("project-id", "", "", "project id")
 	importCmd.Flags().StringP("docs-file-path", "f", "", "api docs file path")
-	importCmd.Flags().StringP("access-token", "t", "", "apifox access token")
 }
