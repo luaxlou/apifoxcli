@@ -1,6 +1,6 @@
 # apifoxcli
 
-apifox api文档的导入工具
+Apifox api文档的导入工具
 
 
 -[x] 导入openapi格式
@@ -11,7 +11,7 @@ Install
 go install github.com/luaxlou/apifoxcli@latest
 ```
 
-usage
+Usage
 
 在目录下建立 config
 
