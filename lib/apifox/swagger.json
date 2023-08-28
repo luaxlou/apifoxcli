@@ -1,0 +1,17 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "contact": {}
+  },
+  "paths": {
+    "/business/project/projects": {
+      "get": {
+        "tags": [
+          "project"
+        ],
+        "summary": "项目列表",
+        "responses": {}
+      }
+    }
+  }
+}
