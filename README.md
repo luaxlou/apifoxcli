@@ -13,7 +13,9 @@ go install github.com/luaxlou/apifoxcli@latest
 
 Usage
 
-在目录下建立 config
+在以下目录下建立 config.yaml
+
+$HOME/.apifoxcli
 
 ```
 accessToken: apifox accessToken
